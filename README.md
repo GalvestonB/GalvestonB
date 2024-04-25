@@ -13,8 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 - So - attached please find the following files:
 **- Python: General studies:**
-- I spent time learning basics and these are my first forays into python. 
-- 
+- I spent time learning basics and these are the exercises from the first 8 chapters of exercises from the book Python Crash Course by Eric Matthes.
+  
+  
 **- Python: Food Hub: Project Description:**
 - The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 - Report is formatted in an html document; instructor comments: Excellent job of analyzing the data and providing valuable insights into the demand patterns of different restaurants. Your findings will greatly contribute to enhancing the overall customer experience and satisfaction.
