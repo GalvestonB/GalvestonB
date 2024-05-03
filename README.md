@@ -7,13 +7,16 @@ Collection of files representing my forays into data analysis:
 
   _Python:_
   
-    Introductory exercises from Harvard's CS350 online Python class as well as Eric Mathes' book, _Python Crash Course_
-    FoodHub
-
+    [Introductory exercises from Harvard's CS350 online Python class as well as Eric Mathes' book, _Python Crash Course_](https://github.com/GalvestonB/Python-HarvardOnline/).
+    [FoodHub](https://github.com/GalvestonB/Food-Hub/).
+            
   _Excel & SQL:_
   
-    New Wheels
+    [New Wheels](https://github.com/GalvestonB/New-Wheels/).
 
   _Power BI:_
   
-    MovieLens
+    [MovieLens](https://github.com/GalvestonB/Movie-Lens/).
+
+
+          This site was built using [GitHub Pages](https://pages.github.com/).
