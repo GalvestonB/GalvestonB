@@ -6,11 +6,14 @@ Attached:
 Collection of files representing my forays into data analysis:
 
   _Python:_
-    a) Various introductory exercises from Harvard's CS350 online Python class as well as Eric Mathes' book, _Python Crash Course_.
-    b) FoodHub
+  
+    Introductory exercises from Harvard's CS350 online Python class as well as Eric Mathes' book, _Python Crash Course_
+    FoodHub
 
   _Excel & SQL:_
-    a) New Wheels
+  
+    New Wheels
 
   _Power BI:_
-    a) MovieLens
+  
+    MovieLens
