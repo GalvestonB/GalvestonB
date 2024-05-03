@@ -5,7 +5,7 @@ About me: Stepping away from academia to focus on data. Learning to harness new 
 Attached:
 Collection of files representing my forays into data analysis:
 
-  _Python: _
+  _Python:_
     a) Various introductory exercises from Harvard's CS350 online Python class as well as Eric Mathes' book, _Python Crash Course_.
     b) FoodHub
 
